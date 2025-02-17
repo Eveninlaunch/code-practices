@@ -12,3 +12,8 @@ In the Cohorts of Songs project, I used Numpy, Pandas, Matplotlib, and Seaborn f
   ![1739782054446](https://github.com/user-attachments/assets/4a043c7e-6561-45f9-994a-04abfc82aace)
   ![1739782068152](https://github.com/user-attachments/assets/b3d02894-21f1-48bf-a29a-6ba62696df73)
 
+In the ScienceQtech project, I used MySQL to analyze data, such as Create an ER diagram, Create a view, query using functions, and Create an index.
+  The relevant code and material:
+
+  ![1739782893295](https://github.com/user-attachments/assets/27c5fb4d-7825-47b4-8931-b1663269dcd4)
+
