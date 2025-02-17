@@ -21,4 +21,4 @@ In the United_States_Airlines_Alalysis_Capstone_2 project, the objective of this
 
   https://github.com/Eveninlaunch/code-practices/blob/main/United_States_Airlines_Analysis_Capstone_2/Capstone%20Project%20of%20United%20States%20Airlines%20Analysis.ipynb
 
-Machine Learning Specialization I studied in Coursera and the instructor is Andrew Ng.
+I studied and got a certificate for Machine Learning Specialization in Coursera, and the instructor is Andrew Ng.
