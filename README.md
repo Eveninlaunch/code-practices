@@ -19,4 +19,6 @@ In the ScienceQtech project, I used MySQL to analyze data, such as Create an ER 
 
 In the United_States_Airlines_Alalysis_Capstone_2 project, the objective of this project is to identify the factors that contribute to avoidable flight delays and to build a model to predict if the flight will be delayed. In the project, I used Pandas, Numpy, BeautifulSoup, Matplotlib, and Seaborn for EDA and Analysis, Sklearn for DecisionTreeClassifier, and Xgboost.
 
-https://github.com/Eveninlaunch/code-practices/blob/main/United_States_Airlines_Analysis_Capstone_2/Capstone%20Project%20of%20United%20States%20Airlines%20Analysis.ipynb
+  https://github.com/Eveninlaunch/code-practices/blob/main/United_States_Airlines_Analysis_Capstone_2/Capstone%20Project%20of%20United%20States%20Airlines%20Analysis.ipynb
+
+Machine Learning Specialization I studied in Coursera and the instructor is Andrew Ng.
