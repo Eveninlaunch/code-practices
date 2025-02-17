@@ -17,3 +17,4 @@ In the ScienceQtech project, I used MySQL to analyze data, such as Create an ER 
 
   ![1739782893295](https://github.com/user-attachments/assets/27c5fb4d-7825-47b4-8931-b1663269dcd4)
 
+In the United_States_Airlines_Alalysis_Capstone_2 project, the objective of this project is to identify the factors that contribute to avoidable flight delays and to build a model to predict if the flight will be delayed. In the project, I used Pandas, Numpy, BeautifulSoup, Matplotlib, and Seaborn for EDA and Analysis, Sklearn for DecisionTreeClassifier, and Xgboost.
