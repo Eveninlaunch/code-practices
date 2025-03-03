@@ -27,4 +27,4 @@ The Fake News Classification aims to find out the fake news, it's used accumulat
   The relevant code:
   ![1740641393508](https://github.com/user-attachments/assets/737574ad-f845-40d9-81f3-f099bee96a01)
 
-  
+Titanic Survivor Prediction with Logistic Regression and Naive Bayes.ipynb is used for Logistic Regression and Naive Bayes practices.  
