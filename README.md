@@ -1,5 +1,5 @@
 # code-practices
-My code, data science, and machine learning practices began from 2023 Aug.
+My code, data science, and machine learning practices.
 
 In the car_rent_platform, it was my first time using Class in Python.
   The relevant code and material:
@@ -29,4 +29,6 @@ The Fake News Classification aims to find out the fake news, it uses accumulativ
 
 Titanic Survivor Prediction with Logistic Regression and Naive Bayes.ipynb is used for Logistic Regression and Naive Bayes practices.  
 
-In the Deep Learning for Real Estate Price Prediction, I compared two different deep learning models: one used a limited number of features. At the same time, the other utilized an increased number of features. I used Pandas, Numpy, Matplotlib, Seaborn, Axes3D, folium, and HeatMap for EDA and Analysis, TensorFlow and Keras for Deep Learning, and Adam in the project.
+In the Deep Learning for Real Estate Price Prediction, I compared two different deep learning models: one used a limited number of features, while the other utilized an increased number of features. I used Pandas, Numpy, Matplotlib, Seaborn, Axes3D, Folium, and HeatMap for EDA and Analysis, TensorFlow and Keras for Deep Learning, and Adam in the project.
+
+In the Build a Generative Adversarial Network,  I used PyTorch to create the Generator Network and the Discriminator Network and to create a training loop to train the GAN model.
