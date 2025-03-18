@@ -32,3 +32,7 @@ Titanic Survivor Prediction with Logistic Regression and Naive Bayes.ipynb is us
 In the Deep Learning for Real Estate Price Prediction, I compared two different deep learning models: one used a limited number of features, while the other utilized an increased number of features. I used Pandas, Numpy, Matplotlib, Seaborn, Axes3D, Folium, and HeatMap for EDA and Analysis, TensorFlow and Keras for Deep Learning, and Adam in the project.
 
 In the Build a Generative Adversarial Network,  I used PyTorch to create the Generator Network and the Discriminator Network and to create a training loop to train the GAN model.
+
+In the Building_a_Regression_Model_in_Keras, I used Keras to build a regression model to predict the compressive strength of different samples of concrete.
+
+In the Final Proj-Classify Waste Products Using TL FT, I used TensorFlow, Keras, callbacks (for early stopping), and transfer learning of the pre-trained VGG-16 model.
